@@ -29,16 +29,19 @@ Datasets: HeatEquation_1D, PME_1D, StefanPME_1D, LinearAdvection_1D.
 This repo contains modified versions of the code found in the following repos:
 
 https://github.com/zongyi-li/fourier_neural_operator: For implementation of the Fourier Neural Operator (FNO) (MIT license)
+
 https://github.com/amazon-science/probconserv: For implementation of ProbConserv (Apache 2.0 license)
 
 ## Citation
 If you use this code, or our work, please cite: 
 
+```
 @article{mouli2024_ood_uq_no,
     title={Using Uncertainty Quantification to Characterize and Improve Out-of-Domain Learning for PDEs},
     author={Mouli, S.C., Maddix, D.C., Alizadeh, S., Gupta, G., Wang, Y., Stuart, A., Mahoney, M.W.},
     year={2024}
 }
+```
 
 ## Security
 
