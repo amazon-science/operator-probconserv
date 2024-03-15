@@ -1,6 +1,6 @@
 ## Operator-ProbConserv: OOD Uncertainty Quantification (UQ) for Neural Operators
 
-This repository contains the code for the paper "Using Uncertainty Quantification to Characterize and Improve Out-of-Domain Learning for PDEs" by S Chandra Mouli, Danielle C. Maddix, Shima Alizadeh, Gaurav Gupta, Yuyang Wang, Andrew Stuart, Michael W. Mahoney
+This repository contains the code for the paper "Using Uncertainty Quantification to Characterize and Improve Out-of-Domain Learning for PDEs" by S. Chandra Mouli, Danielle C. Maddix, Shima Alizadeh, Gaurav Gupta, Yuyang Wang, Andrew Stuart, Michael W. Mahoney
 
 ## Setup
 Install dependencies by running
