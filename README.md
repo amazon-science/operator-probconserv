@@ -38,7 +38,8 @@ If you use this code, or our work, please cite:
 ```
 @article{mouli2024_ood_uq_no,
     title={Using Uncertainty Quantification to Characterize and Improve Out-of-Domain Learning for PDEs},
-    author={Mouli, S.C., Maddix, D.C., Alizadeh, S., Gupta, G., Wang, Y., Stuart, A., Mahoney, M.W.},
+    author={Mouli, S.C., Maddix, D.C., Alizadeh, S., Gupta, G., Stuart, A., Mahoney, M.W., Wang, Y.},
+    journal={arXiv preprint arXiv:2403.10642},
     year={2024}
 }
 ```
