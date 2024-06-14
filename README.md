@@ -36,10 +36,12 @@ https://github.com/amazon-science/probconserv: For implementation of ProbConserv
 If you use this code, or our work, please cite: 
 
 ```
-@article{mouli2024_ood_uq_no,
+@inproceedings{mouli2024_ood_uq_no,
     title={Using Uncertainty Quantification to Characterize and Improve Out-of-Domain Learning for PDEs},
     author={Mouli, S.C., Maddix, D.C., Alizadeh, S., Gupta, G., Stuart, A., Mahoney, M.W., Wang, Y.},
-    journal={arXiv preprint arXiv:2403.10642},
+    booktitle={International Conference on Machine Learning},
+    volume = {235},
+    organization={PMLR},  
     year={2024}
 }
 ```
